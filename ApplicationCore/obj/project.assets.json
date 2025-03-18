@@ -10,26 +10,28 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\szymo\\.nuget\\packages\\": {}
+    "C:\\Users\\Radek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\szymo\\Downloads\\wsei-backend-lab-lab-02\\wsei-backend-lab-lab-02\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\Radek\\RiderProjects\\backendlab1\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "C:\\Users\\szymo\\Downloads\\wsei-backend-lab-lab-02\\wsei-backend-lab-lab-02\\ApplicationCore\\ApplicationCore.csproj",
-      "packagesPath": "C:\\Users\\szymo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\szymo\\Downloads\\wsei-backend-lab-lab-02\\wsei-backend-lab-lab-02\\ApplicationCore\\obj\\",
+      "projectPath": "C:\\Users\\Radek\\RiderProjects\\backendlab1\\ApplicationCore\\ApplicationCore.csproj",
+      "packagesPath": "C:\\Users\\Radek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Radek\\RiderProjects\\backendlab1\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
-        "C:\\Users\\szymo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Radek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0",
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +53,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -86,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\szymo\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Radek\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       },
       "net9.0": {
         "targetAlias": "net9.0",
@@ -106,7 +109,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\szymo\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Radek\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
