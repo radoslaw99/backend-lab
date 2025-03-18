@@ -1,0 +1,16 @@
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Radek\RiderProjects\backendlab1\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
